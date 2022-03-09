@@ -1,0 +1,33 @@
+#wrapper {
+    border-radius: 5px;
+    background-color: rgb(133, 133, 133);
+    position: relative;
+    margin: auto;
+    width: 90vw;
+    text-align: center;
+}
+.titleText {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#title {
+    font-size: 20pt;
+}
+input {
+    padding: 10px;
+    display: inline-block;
+}
+input[type='checkbox'] {
+    clear: both;
+}
+label {
+    width: 100%;
+    clear: both;
+    display: block;
+    padding: 10px;
+}
+textarea {
+    display: block;
+    position: relative;
+    margin: auto;
+}
