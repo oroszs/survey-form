@@ -41,6 +41,9 @@ input[type='checkbox'] {
     display: block;
     padding: initial;
 }
+.colorChoice {
+    color: black;
+}
 label {
     width: 80%;
     clear: both;
